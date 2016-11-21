@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 echo "--- {}"
-echo $argv[1]
+echo $1
