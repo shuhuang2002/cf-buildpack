@@ -3,5 +3,5 @@
 
 echo "-----> Nothing to do."
 echo `pwd`
-echo `ls`
-tar zxvf ../sas.esp-4.3-lax.tar.gz
+echo `ls/app`
+tar zxvf app/sas.esp-4.3-lax.tar.gz
