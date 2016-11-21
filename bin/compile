@@ -4,4 +4,7 @@
 echo "-----> Nothing to do."
 echo `pwd`
 echo `ls/app`
+echo "--->argv[1]."
+echo $argv[1]
+echo $argv[2]
 #tar zxvf app/sas.esp-4.3-lax.tar.gz

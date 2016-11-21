@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
-
+echo "detect"
+echo $argv[1]
 echo "Null"
 exit 0
