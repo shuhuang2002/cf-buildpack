@@ -1,10 +1,6 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-echo "-----> Nothing to do."
-echo `pwd`
+echo "-----> Nothing to compile."
 echo `ls app`
-echo "--->argv[1]."
-echo $1
-echo $2
 #tar zxvf app/sas.esp-4.3-lax.tar.gz

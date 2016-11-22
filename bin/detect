@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
-echo "detect"
-echo $1
-echo "Null"
+echo "detect..."
+
 exit 0
